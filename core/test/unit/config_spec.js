@@ -294,7 +294,7 @@ describe('Config', function () {
                 'contentPath',
                 'corePath',
                 'themePath',
-                'pluginPath',
+                'appPath',
                 'imagesPath',
                 'imagesRelPath',
                 'adminViews',
@@ -303,8 +303,12 @@ describe('Config', function () {
                 'lang',
                 'debugPath',
                 'availableThemes',
+<<<<<<< HEAD
                 'availablePlugins',
                 'builtScriptPath'
+=======
+                'availableApps'
+>>>>>>> Rename 'plugins' to 'apps'
             );
         });
 
