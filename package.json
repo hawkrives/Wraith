@@ -1,25 +1,27 @@
 {
-    "name"        : "ghost",
-    "version"     : "0.3.3",
-    "description" : "Just a blogging platform.",
-    "author"      : "Ghost Foundation",
-    "homepage"    : "http://ghost.org",
+    "name"        : "Wraith",
+    "version"     : "0.0.1",
+    "description" : "Revenge of the Databases",
+    "author"      : "Oluseyi Sonaiya",
+    "homepage"    : "http://github.com/oluseyi/Wraith",
     "keywords"    : [
+        "wraith",
         "ghost",
+        "fork",
         "blog",
         "cms"
     ],
     "repository"  : {
         "type": "git",
-        "url": "git://github.com/TryGhost/Ghost.git"
+        "url": "git://github.com/oluseyi/Wraith.git"
     },
-    "bugs"        : "https://github.com/TryGhost/Ghost/issues",
-    "contributors": "https://github.com/TryGhost/Ghost/graphs/contributors",
+    "bugs"        : "https://github.com/oluseyi/Wraith/issues",
+    "contributors": "https://github.com/oluseyi/Wraith/graphs/contributors",
     "private"     : true,
     "licenses"    : [
         {
             "type": "MIT",
-            "url": "https://raw.github.com/TryGhost/Ghost/master/LICENSE"
+            "url": "https://raw.github.com/oluseyi/Wraith/master/LICENSE"
         }
     ],
     "main": "./core/index",
