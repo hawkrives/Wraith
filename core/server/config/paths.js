@@ -41,12 +41,8 @@ function paths() {
         'lang':             path.join(corePath, '/shared/lang/'),
         'debugPath':        subdir + '/ghost/debug/',
         'availableThemes':  availableThemes,
-<<<<<<< HEAD
-        'availablePlugins': availablePlugins,
         'builtScriptPath':  path.join(corePath, 'built/scripts/')
-=======
         'availableApps':    availableApps
->>>>>>> Rename 'plugins' to 'apps'
     };
 }
 
